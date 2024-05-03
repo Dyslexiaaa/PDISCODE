@@ -6,7 +6,7 @@ original_start = time.time()
 # Definimos todas las rutas que el programa va a usar
 path_files_words = "./HtmlFilesWithArangedWords/"
 path_tokens = "./TokenizedOutputFiles/consolidated_tokens.html"
-general_path_docs = "../WeightTokens/docs/"
+general_path_docs = "../PDISCODE-MAIN/docs/"
 
 # Creamos rutas compuestas más compuestas para que el programa las
 # pueda usar
